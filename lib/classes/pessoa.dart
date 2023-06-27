@@ -1,1 +1,4 @@
-class Pessoa {}
+class Pessoa {
+  String nome = "";
+  String endereco = "";
+}
